@@ -4,6 +4,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    font-family: Verdana, sans-serif;
 }
 .mainContainer{
     background-color: white;
